@@ -1,6 +1,6 @@
 ---
 description: >-
-  This document outlines some of my work samples as a computer science
+  This document outlines a few of my work samples as a computer science
   teacher/curriculum writer.
 ---
 
